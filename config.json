@@ -1,0 +1,5 @@
+{
+  "elasticsearch_host": "http://localhost:9200",
+  "database_path": "mydatabase.db",
+  "csv_url": "https://yadi.sk/d/UYooXd9q2yqTMQ?dl=1"
+}
