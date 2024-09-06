@@ -50,14 +50,14 @@ sql
 
 1. Запустите сервер Elasticsearch:
 
-bash
-   # Зависит от вашей установки Elasticsearch
-   # Обычно запускается с помощью команды service elasticsearch start
+    Зависит от вашей установки Elasticsearch
+    Обычно запускается с помощью команды service elasticsearch start
    
 2. Запустите скрипт:
 
-bash
-   python app.py   
+    bash
+        
+    python app.py   
 ## Использование
 
 1. ⒷЗагрузите CSV-файл с данными о документах:Ⓑ  
